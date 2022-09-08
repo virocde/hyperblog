@@ -1,7 +1,7 @@
 body{
-    color: rgb(12, 39, 39);
+    color: black;
     text-align: center;
-    font-family: "curier";
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -17,6 +17,5 @@ body{
 }
 #container h1
 {
-    color: aqua;
     font-size: 20px;
 }
